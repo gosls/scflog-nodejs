@@ -1,0 +1,17 @@
+{
+  "name": "scflog",
+  "version": "0.0.3",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dfounderliu",
+  "license": "MIT",
+  "bin": {
+    "scflog": "scflog.js"
+  },
+  "dependencies": {
+    "commander": "^4.1.1",
+    "websocket": "*"
+  }
+}
